@@ -1,4 +1,4 @@
-Ticknask is a revolutionary note-taking app that combines the power of versatile keyboards and menu shortcuts, real-time collaboration, and an intuitive node dragger reminiscent of popular tools like Notion. With its advanced features and sleek interface Ticknask is designed to enhance your productivity and streamline your note-taking experience.
+Ticknask is a revolutionary note-taking app that combines the power of versatile keyboards, mouse and menu shortcuts, real-time collaboration, intuitive node dragger reminiscent of popular tools like Notion and encrypted note storage. With its advanced features and sleek interface Ticknask is designed to enhance your productivity and streamline your note-taking experience.
 
 https://ticknask.vercel.app
 
